@@ -12,3 +12,4 @@ class model_latihan1 extends CI_Model
  return $this->hasil;
  }
 }
+?>
